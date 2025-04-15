@@ -16,8 +16,6 @@ The entire project is implemented using **Python** as the core technology, along
 - [Setup Instructions](#setup-instructions)
 - [API Endpoints](#api-endpoints)
 - [Screenshots & Recordings](#screenshots--recordings)
-- [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ---
@@ -151,29 +149,6 @@ streamlit run frontend/app.py
 
 🎥 **Demo Recording:**
 - _Coming Soon – Upload demo to a public link and update this section._
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
-
-## Contributing
-
-**Contributions are welcome!**
-
-### Contributors can help with:
-- Enhancing security and authentication.
-- Improving the export functionality.
-
-### How to Contribute:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit changes with clear messages.
-4. Push and open a pull request.
-5. For major changes, open an issue to discuss them first.
 
 ---
 
