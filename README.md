@@ -104,7 +104,7 @@ Expense_Tracking/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/amrit4385/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic.git
+git clone https://github.com/amrit4385/Expense-Management.git
 cd expense-management-system
 ```
 
