@@ -140,10 +140,9 @@ streamlit run frontend/app.py
 
 ## Screenshots & Recordings
 
-📸 **Screenshots:**
-###Adding/Updating Data
+### Adding/Updating Data
 ![add update Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/add_update_tab.png)
-###SQL Database Structure
+### SQL Database Structure
 ![mysql Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/mysql.png)
 - Server Logs
 - Category Analytics
