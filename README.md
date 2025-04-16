@@ -155,5 +155,5 @@ streamlit run frontend/app.py
 ## Contact
 
 - 📧 **Email:** amrit4385@gmail.com
-- 🐛 **GitHub Issues:** [Issue Tracker](https://github.com/amrit4385/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/issues)
+- 🐛 **GitHub Issues:** [Issue Tracker](https://github.com/amrit4385/Expense-Management/issues)
 
