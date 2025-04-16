@@ -142,6 +142,7 @@ streamlit run frontend/app.py
 
 📸 **Screenshots:**
 - Adding/Updating Data
+![Analytics Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/add_update_tab.png)
 - SQL Database Structure
 - Server Logs
 - Category Analytics
