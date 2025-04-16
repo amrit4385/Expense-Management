@@ -140,16 +140,19 @@ streamlit run frontend/app.py
 
 ## Screenshots & Recordings
 
-### Adding/Updating Data
+### 1. Adding/Updating Data
 ![add update Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/add_update_tab.png)
-### SQL Database Structure
+### 2. SQL Database Structure
 ![mysql Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/mysql.png)
-- Server Logs
-- Category Analytics
-- Monthly Analytics
+### 3. Server Logs
+![Server Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/server_log.png)
+### 4. Category Analytics
+![Category Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/analytics_by_category_tab.png)
+### 5. Monthly Analytics
+![Monthly Screenshot](https://github.com/amrit4385/Expense-Management/blob/main/Screenshots/analytics_by_month_tab.png)
 
 🎥 **Demo Recording:**
-- _Coming Soon – Upload demo to a public link and update this section._
+- _Coming Soon 
 
 ---
 
